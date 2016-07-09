@@ -1,0 +1,139 @@
+html{
+    background-color:#01A0D1;
+    font-family: 'Shadows Into Light Two', cursive;
+}
+
+.navbar {
+    background-color:#01799E;
+    display:block;
+    position:fixed;
+    width:100%;
+    height:60px;
+    font-family: 'Shadows Into Light Two', cursive;
+    margin:0;
+    z-index: 1;
+
+}
+
+.navbar h1{
+    color:#ffffff;
+    text-align:left;
+    margin:10px;
+    text-shadow:2px 2px 2px #42B5D9;
+}
+
+.navbar ul{
+    text-align:right;
+}
+
+.navbar li{
+    display:inline-block;
+    color:#ffffff;
+    margin:10px 6px;
+    background-color:#42B5D9;
+    text-decoration:none;
+    font-family: 'Shadows Into Light Two', cursive;
+    
+}
+
+.navbar li:hover{
+    background-color:#01799E;
+}
+
+.navbar a{
+    color:#ffffff;
+}
+
+.jumbotron {
+    background:url(img/jumbotron-seashore.jpg) no-repeat center center;
+    background-size:cover;
+    font-family: 'Shadows Into Light Two', cursive;
+    color:#ffffff;
+    height:400px;    
+    margin:0;
+}
+
+.jumbotron h2{
+    padding-top:100px;
+    text-align:center;
+    text-shadow:2px 2px 2px #0196C4;
+    font-weight:bold;
+}
+
+.main {
+    background-color:#194452;
+}
+
+.main .container{
+    padding-top:30px;
+    padding-bottom:30px;
+}
+
+.main img{
+    margin:10px;
+    background-color:#194452;
+    box-shadow:2px 2px 2px #42B5D9;
+}
+
+.footer {
+    background-color:#01799E;
+    display:block;
+    position:relative;
+    width:100%;
+    height:60px;
+    font-family: 'Shadows Into Light Two', cursive;
+    margin:0;
+}
+
+.footer p{
+    text-align:center;
+    color:#ffffff;
+    padding:10px;
+}
+
+.jumbotron-2 {
+    background:url(/img/about/epcot.jpg) no-repeat center center;
+    background-size:cover;
+    font-family: 'Shadows Into Light Two', cursive;
+    color:#ffffff;
+    height:300px;    
+    margin:0;
+}
+
+.jumbotron-2 h2{
+    padding-top:100px;
+    text-align:center;
+    text-shadow:2px 2px 2px #0196C4;
+    font-weight:bold;
+}
+
+.main-2 {
+    background-color:#42B5D9;
+    font-family: 'Shadows Into Light Two', cursive;
+}
+
+.main-2 h2 {
+    color:#ffffff;
+    padding-top:40px;
+    text-align:center;
+    text-shadow:2px 2px 2px #0196C4;
+    font-weight:bold;
+}
+
+.main-2 h3 {
+    color:#ffffff;
+    text-align:center;
+    text-shadow:2px 2px 2px #0196C4;
+    font-weight:bold;
+}
+
+.main-2 img {
+    padding:10px;
+    box-shadow:2px 2px 2px #0196C4;
+    background-color:#194452;
+    margin:10px;
+}
+
+ #contrast {
+    background-color:#194452;
+}
